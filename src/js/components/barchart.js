@@ -78,20 +78,20 @@ const januaryData = [
 
 const marchData = [
   {
-    name: "We",
-    sales: getSaleAmountPerWeek("1/17/2019")
+    name: "3/17",
+    sales: getSaleAmountPerWeek("3/17/2019")
   },
   {
-    name: "Week 2",
-    sales: getSaleAmountPerWeek("1/25/2019")
+    name: "3/25",
+    sales: getSaleAmountPerWeek("3/25/2019")
   },
   {
-    name: "Week 3",
-    sales: getSaleAmountPerWeek("2/1/2019")
+    name: "4/4",
+    sales: getSaleAmountPerWeek("4/4/2019")
   },
   {
-    name: "Week 4",
-    sales: getSaleAmountPerWeek("2/8/2019")
+    name: "4/11",
+    sales: getSaleAmountPerWeek("4/11/2019")
   }
 ];
 

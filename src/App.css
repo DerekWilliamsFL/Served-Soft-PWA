@@ -15,28 +15,7 @@ body {
 
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 
-/* Vars */
-$color-grey: #666;
-$color-grey-b: #f2f2f2;
-$color-purple: #6e1e52;
-$color-pink: #b7235a;
-$color-orange: #f3883c;
-$color-yellow: #f7d8a7;
-  
-$size-a: .375rem;
-.75rem: .75rem;
-$size-d: 1.875rem;
-3rem: 3rem;
-$size-f: 20rem;
-
-$size-border: 3px;
-
-/* Demo stuff */
 body {
-  padding-top: 3rem;
-  padding-right: 3rem;
-  padding-left: 3rem;
-  font-family: 'Montserrat', sans-serif;
   line-height: 1.5rem;
   color: #666;
   background-color: #f2f2f2;
