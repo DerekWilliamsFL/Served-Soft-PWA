@@ -1,0 +1,26 @@
+  [
+      {
+    "product": "Strawberry Ice Cream",
+    "likes": 40
+  },
+  {
+    "product": "Pineapple Milkshake",
+    "likes": 32
+  },
+  {
+    "product": "Raspberry Chardonnay",
+    "likes": 13
+  },
+  {
+    "product": "Vanilla Wine",
+    "likes": 8
+  },
+  {
+    "product": "Cheeseburger",
+    "likes": 21
+  },
+  {
+    "product": "French Fries",
+    "likes": 20
+  }
+  ]

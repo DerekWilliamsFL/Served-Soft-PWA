@@ -1,0 +1,26 @@
+[
+  {
+    "product": "Strawberry Ice Cream",
+    "userEmail": "test@email.com" 
+  },
+  {
+    "product": "Pineapple Milkshake",
+    "userEmail": "test@email.com" 
+  },
+  {
+    "product": "Raspberry Chardonnay",
+    "userEmail": "test@email.com" 
+  },
+  {
+    "product": "Vanilla Wine",
+    "userEmail": "admin@email.com" 
+  },
+  {
+    "product": "Cheeseburger",
+    "userEmail": "admin@email.com" 
+  },
+  {
+    "product": "French Fries",
+    "userEmail": "admin@email.com" 
+  }
+]

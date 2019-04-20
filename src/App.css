@@ -1,0 +1,186 @@
+body {
+  /*font-family: sans-serif;*/
+}
+
+.defaultWidgetFrame {
+  background: none !important;
+}
+
+.filterable-list-item {
+    background-color: white;
+    height: 40px;
+    line-height: 40px;
+    color: black;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+/* Vars */
+$color-grey: #666;
+$color-grey-b: #f2f2f2;
+$color-purple: #6e1e52;
+$color-pink: #b7235a;
+$color-orange: #f3883c;
+$color-yellow: #f7d8a7;
+  
+$size-a: .375rem;
+.75rem: .75rem;
+$size-d: 1.875rem;
+3rem: 3rem;
+$size-f: 20rem;
+
+$size-border: 3px;
+
+/* Demo stuff */
+body {
+  padding-top: 3rem;
+  padding-right: 3rem;
+  padding-left: 3rem;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5rem;
+  color: #666;
+  background-color: #f2f2f2;
+}
+
+.module {
+  width: 20rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1.5rem;
+  background-color: white;
+  border-radius: 3px;
+  margin-bottom: 3rem;
+}
+
+.module__heading {
+  margin-top: - 1.5rem;
+  margin-right: - 1.5rem;
+  margin-bottom: 1.5rem;
+  margin-left: - 1.5rem;
+  padding: .75rem;
+  font-size: 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+}
+
+.module__heading--d {
+  background-color: #b7235a;
+}
+
+.custom-bullet {
+  margin-left: 0;
+  list-style: none;
+  counter-reset: counter;
+
+  > li:before {
+    counter-increment: counter;
+    content: counter(counter);
+  }
+}
+
+.custom-bullet--d {
+  overflow: hidden;
+}
+.custom-bullet--d:before {
+  overflow: hidden;
+   position: absolute;
+      top: 0;
+      bottom: 0;
+      left: - 1.5rem;
+      display: inline-block;
+      width:1.875rem ;
+      text-align: center;
+      color: white;
+      background-color: #b7235a;
+      border-bottom-left-radius: 100em;
+      border-top-left-radius: 100em;
+}
+.custom-bullet--d:last-child {
+      margin-bottom: 0;
+    }
+.custom-bullet--d li {
+    position: relative;
+    left: 1.5rem;
+    margin-bottom: .75rem;
+    padding-left: .75rem;
+    background-color: #f2f2f2;
+    
+}
+.custom-bullet--d li,
+.custom-bullet--d li:before {
+      padding-top:.375rem;
+      padding-bottom:.375rem;
+}
+.card-holder {
+  display: flex;
+}
+
+.btn-primary {
+  background: #CF5386!important;
+}
+
+/* Custom dropdown */
+.custom-dropdown {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 10px; /* demo only */
+}
+
+.custom-dropdown select {
+  background-color: #FFC107;
+  color: #000;
+  font-size: inherit;
+  padding: .5em;
+  padding-right: 2.5em;	
+  border: 0;
+  margin: 0;
+  border-radius: 3px;
+  text-indent: 0.01px;
+  text-overflow: '';
+  /*Hiding the select arrow for firefox*/
+  -moz-appearance: none;
+  /*Hiding the select arrow for chrome*/
+  -webkit-appearance:none;
+  /*Hiding the select arrow default implementation*/
+  appearance: none;
+}
+/*Hiding the select arrow for IE10*/
+.custom-dropdown select::-ms-expand {
+    display: none;
+}
+
+.custom-dropdown::before,
+.custom-dropdown::after {
+  content: "";
+  position: absolute;
+  pointer-events: none;
+}
+
+.custom-dropdown::after { /*  Custom dropdown arrow */
+  content: "\25BC";
+  height: 1em;
+  font-size: .625em;
+  line-height: 1;
+  right: 1.2em;
+  top: 50%;
+  margin-top: -.5em;
+}
+
+.custom-dropdown::before { /*  Custom dropdown arrow cover */
+  width: 2em;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 0 3px 3px 0;
+  background-color: rgba(0,0,0,.2);
+}
+
+.custom-dropdown::after {
+  color: rgba(0,0,0,.6);
+}
+
+.custom-dropdown select[disabled] {
+  color: rgba(0,0,0,.25);
+}

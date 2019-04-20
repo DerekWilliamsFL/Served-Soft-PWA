@@ -1,0 +1,198 @@
+[
+  { "product": "Strawberry Ice Cream", "price": 19.8, "date": "01/22/2019" },
+  {
+    "product": "Pineapple Milkshake",
+    "price": 3.6,
+    "date": "02/03/2019"
+  },
+  {
+    "product": "Pineapple Milkshake",
+    "price": 16.0,
+    "date": "03/05/2019"
+  },
+  { "product": "Cheeseburger", "price": 2.4, "date": "01/28/2019" },
+  { "product": "Cheeseburger", "price": 21.3, "date": "04/12/2019" },
+  {
+    "product": "Vanilla Wine",
+    "price": 10.0,
+    "date": "03/30/2019"
+  },
+  { "product": "Cheeseburger", "price": 7.0, "date": "02/20/2019" },
+  { "product": "Vanilla Wine", "price": 12.3, "date": "03/24/2019" },
+  { "product": "Vanilla Wine", "price": 12.7, "date": "02/19/2019" },
+  { "product": "French Fries", "price": 12.0, "date": "02/08/2019" },
+  { "product": "Vanilla Wine", "price": 5.9, "date": "02/08/2019" },
+  { "product": "Cheeseburger", "price": 9.1, "date": "02/06/2019" },
+  { "product": "French Fries", "price": 6.5, "date": "02/08/2019" },
+  {
+    "product": "Cheeseburger",
+    "price": 23.1,
+    "date": "03/18/2019"
+  },
+  { "product": "Cheeseburger", "price": 12.4, "date": "01/29/2019" },
+  { "product": "Pineapple Milkshake", "price": 7.0, "date": "04/10/2019" },
+  { "product": "French Fries", "price": 24.3, "date": "01/30/2019" },
+  { "product": "French Fries", "price": 4.8, "date": "03/21/2019" },
+  { "product": "French Fries", "price": 13.2, "date": "03/29/2019" },
+  { "product": "Cheeseburger", "price": 21.6, "date": "01/21/2019" },
+  { "product": "Vanilla Wine", "price": 6.3, "date": "03/09/2019" },
+  { "product": "Pineapple Milkshake", "price": 13.0, "date": "03/28/2019" },
+  { "product": "Cheeseburger", "price": 16.6, "date": "02/09/2019" },
+  { "product": "Cheeseburger", "price": 10.9, "date": "02/07/2019" },
+  {
+    "product": "French Fries",
+    "price": 23.0,
+    "date": "02/15/2019"
+  },
+  { "product": "French Fries", "price": 6.7, "date": "04/09/2019" },
+  { "product": "Cheeseburger", "price": 8.1, "date": "03/23/2019" },
+  { "product": "Cheeseburger", "price": 3.4, "date": "03/22/2019" },
+  { "product": "Cheeseburger", "price": 24.9, "date": "04/11/2019" },
+  {
+    "product": "Strawberry Ice Cream",
+    "price": 17.6,
+    "date": "03/19/2019"
+  },
+  { "product": "Cheeseburger", "price": 14.5, "date": "01/17/2019" },
+  { "product": "Cheeseburger", "price": 8.1, "date": "04/12/2019" },
+  {
+    "product": "French Fries",
+    "price": 18.2,
+    "date": "04/08/2019"
+  },
+  { "product": "Pineapple Milkshake", "price": 8.3, "date": "04/12/2019" },
+  { "product": "French Fries", "price": 6.7, "date": "04/04/2019" },
+  {
+    "product": "Cheeseburger",
+    "price": 7.2,
+    "date": "02/12/2019"
+  },
+  { "product": "Strawberry Ice Cream", "price": 11.8, "date": "03/08/2019" },
+  { "product": "Vanilla Wine", "price": 6.2, "date": "03/28/2019" },
+  { "product": "Strawberry Ice Cream", "price": 15.7, "date": "03/21/2019" },
+  { "product": "Strawberry Ice Cream", "price": 1.9, "date": "03/19/2019" },
+  { "product": "Vanilla Wine", "price": 5.5, "date": "03/07/2019" },
+  {
+    "product": "French Fries",
+    "price": 4.6,
+    "date": "03/24/2019"
+  },
+  {
+    "product": "Cheeseburger",
+    "price": 15.4,
+    "date": "01/23/2019"
+  },
+  { "product": "Cheeseburger", "price": 23.4, "date": "02/05/2019" },
+  {
+    "product": "Pineapple Milkshake",
+    "price": 14.2,
+    "date": "03/03/2019"
+  },
+  { "product": "French Fries", "price": 8.0, "date": "03/19/2019" },
+  { "product": "Cheeseburger", "price": 4.6, "date": "02/18/2019" },
+  { "product": "Pineapple Milkshake", "price": 11.8, "date": "04/10/2019" },
+  { "product": "Pineapple Milkshake", "price": 8.8, "date": "01/29/2019" },
+  {
+    "product": "Raspberry Chardonnay",
+    "price": 14.0,
+    "date": "01/22/2019"
+  },
+  { "product": "Strawberry Ice Cream", "price": 9.2, "date": "01/25/2019" },
+  { "product": "Strawberry Ice Cream", "price": 11.3, "date": "02/24/2019" },
+  { "product": "Strawberry Ice Cream", "price": 18.6, "date": "01/24/2019" },
+  { "product": "Strawberry Ice Cream", "price": 14.3, "date": "01/24/2019" },
+  { "product": "French Fries", "price": 20.7, "date": "03/12/2019" },
+  { "product": "Pineapple Milkshake", "price": 7.4, "date": "04/07/2019" },
+  {
+    "product": "French Fries",
+    "price": 14.6,
+    "date": "04/06/2019"
+  },
+  { "product": "Cheeseburger", "price": 16.9, "date": "01/21/2019" },
+  { "product": "Strawberry Ice Cream", "price": 7.8, "date": "04/07/2019" },
+  { "product": "Strawberry Ice Cream", "price": 12.2, "date": "01/24/2019" },
+  { "product": "Strawberry Ice Cream", "price": 2.5, "date": "03/11/2019" },
+  {
+    "product": "Strawberry Ice Cream",
+    "price": 3.4,
+    "date": "02/23/2019"
+  },
+  {
+    "product": "Strawberry Ice Cream",
+    "price": 20.9,
+    "date": "03/19/2019"
+  },
+  { "product": "French Fries", "price": 24.4, "date": "04/14/2019" },
+  { "product": "Raspberry Chardonnay", "price": 7.8, "date": "03/14/2019" },
+  { "product": "Raspberry Chardonnay", "price": 8.4, "date": "03/18/2019" },
+  { "product": "Raspberry Chardonnay", "price": 16.0, "date": "04/11/2019" },
+  {
+    "product": "Cheeseburger",
+    "price": 6.0,
+    "date": "04/12/2019"
+  },
+  { "product": "Strawberry Ice Cream", "price": 23.1, "date": "02/17/2019" },
+  { "product": "Raspberry Chardonnay", "price": 3.8, "date": "02/26/2019" },
+  { "product": "Strawberry Ice Cream", "price": 7.1, "date": "03/23/2019" },
+  {
+    "product": "Raspberry Chardonnay",
+    "price": 16.9,
+    "date": "04/12/2019"
+  },
+  { "product": "Strawberry Ice Cream", "price": 21.8, "date": "03/19/2019" },
+  {
+    "product": "Raspberry Chardonnay",
+    "price": 14.2,
+    "date": "02/24/2019"
+  },
+  { "product": "Raspberry Chardonnay", "price": 17.9, "date": "01/31/2019" },
+  { "product": "French Fries", "price": 17.8, "date": "03/08/2019" },
+  { "product": "Pineapple Milkshake", "price": 8.0, "date": "01/23/2019" },
+  { "product": "Strawberry Ice Cream", "price": 22.3, "date": "03/22/2019" },
+  { "product": "French Fries", "price": 16.8, "date": "02/07/2019" },
+  { "product": "Pineapple Milkshake", "price": 4.9, "date": "02/14/2019" },
+  { "product": "Pineapple Milkshake", "price": 10.2, "date": "02/11/2019" },
+  { "product": "Strawberry Ice Cream", "price": 19.1, "date": "02/07/2019" },
+  {
+    "product": "Vanilla Wine",
+    "price": 8.0,
+    "date": "02/28/2019"
+  },
+  { "product": "Cheeseburger", "price": 17.8, "date": "02/07/2019" },
+  {
+    "product": "Vanilla Wine",
+    "price": 18.7,
+    "date": "03/19/2019"
+  },
+  { "product": "Vanilla Wine", "price": 24.4, "date": "04/06/2019" },
+  { "product": "Vanilla Wine", "price": 8.2, "date": "03/02/2019" },
+  { "product": "Vanilla Wine", "price": 13.6, "date": "03/05/2019" },
+  { "product": "Vanilla Wine", "price": 12.7, "date": "03/06/2019" },
+  {
+    "product": "Vanilla Wine",
+    "price": 5.1,
+    "date": "03/03/2019"
+  },
+  {
+    "product": "Raspberry Chardonnay",
+    "price": 16.0,
+    "date": "03/13/2019"
+  },
+  { "product": "French Fries", "price": 15.8, "date": "03/28/2019" },
+  { "product": "Pineapple Milkshake", "price": 2.9, "date": "02/11/2019" },
+  { "product": "Vanilla Wine", "price": 4.3, "date": "03/18/2019" },
+  {
+    "product": "Pineapple Milkshake",
+    "price": 1.9,
+    "date": "04/01/2019"
+  },
+  { "product": "Pineapple Milkshake", "price": 10.3, "date": "02/25/2019" },
+  {
+    "product": "Raspberry Chardonnay",
+    "price": 24.8,
+    "date": "01/25/2019"
+  },
+  { "product": "Raspberry Chardonnay", "price": 15.1, "date": "02/22/2019" },
+  { "product": "French Fries", "price": 2.7, "date": "02/19/2019" },
+  { "product": "Strawberry Ice Cream", "price": 15.2, "date": "01/21/2019" }
+]
